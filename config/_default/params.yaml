@@ -20,8 +20,6 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-address = {street = "Social Sciences Building, Room 351", city = "UCSD", region = "San Diego, CA", postcode = "92093", country_code = "US"}
-
 email: jiz717@ucsd.edu
 address:
   street: Social Sciences Building, Room 351
