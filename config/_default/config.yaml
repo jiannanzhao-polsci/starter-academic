@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Jiannan Zhao # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -64,7 +64,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  author: admin
 related:
   threshold: 80
   includeNewer: true
