@@ -62,5 +62,5 @@ email: ""
 highlight_name: false
 ---
 
-Jiannan is a PhD candidate at the Political Science Department at the University of California San Diego. He studies public opinion and political behavior, with a focus on China. His dissertation examines perceptions of economic inequality and political discontent in China. 
+Jiannan is a PhD candidate in Political Science at the University of California, San Diego. He studies public opinion and political behavior, with a focus on China. His dissertation examines perceptions of economic inequality and political discontent in China. 
 
