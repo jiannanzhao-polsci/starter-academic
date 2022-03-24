@@ -4,7 +4,7 @@ authors:
 - Yuequan Guo
 - Jiannan Zhao
 author_notes: ""
-date: "2020-05-15T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract: "What could happen when a large group of migrants return from the host city to home community? How are returning migrants different from their fellows who did not migrate? The existing literature focuses on socioeconomic differences. We instead examine the political impact of return migration. We hypothesize that returnees’ broadened experiences through migration improve their sense of political efficacy and participation in local politics. We study these questions in China where an unprecedented rural-to-urban migration also gives rise to an understudied urban-to-rural returning. Using four nationally representative surveys spanning almost a decade, we document the trend, scale, motivation of return migration in China, which often deviates from the official narrative. We find that returnees exhibit weakly improved political efficacy. However, returnees’ heightened political efficacy does not raise their participation in local politics. They actually quit local politics. We further propose an explanation and conduct exploratory analysis to account for this seeming contradiction. Both quantitative and qualitative analyses suggest returnees’ experience with a dominating state dampens the enlightening effect of migration experience and returnees’ withdrawal from local politics engenders nuanced influence on governance."
+abstract: "How does migration affect people’s political efficacy and participation in autocracies? Existing studies focus on the socioeconomic aspect of migration; instead, we examine the political impact. We argue that migrants gain political efficacy through migration experiences because they learn more about the bureaucratic system from frequent interactions with the government. When migrants return to original communities, their heightened political efficacy motivates them to participate more than non-migrants in local politics. We test this argument by leveraging large-scale migration and return in rural China. Using four nationally representative surveys spanning from 2006 to 2014, we find that returning migrants are more confident in their ability to influence political outcomes. However, their increased political efficacy does not lead to higher levels of participation in local politics. We present suggestive evidence that returnees’ altered trust and preference for government intervention may explain the paradox of stronger political efficacy and less political participation."
 
 featured: false
 
