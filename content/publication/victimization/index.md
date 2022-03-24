@@ -4,7 +4,7 @@ authors:
 - Yiqing Xu
 - Jiannan Zhao
 author_notes: ""
-date: "2020-06-15T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract: "We study the effect of a victimization narrative on national identity and public opinion in China using an experimental approach. Previous studies suggest that governments can guide public opinion by shaping citizens' collective memory on historical events, but few establish a causal linkage. By conducting an online survey experiment among 1890 urban Chinese citizens, we examine the causal impact of primes of particular historical narratives on political attitudes. We introduce four treatment conditions in the experiment. The first two are vignettes on the Boxer Rebellion (1899-1901): one uses a victimization narrative -- i.e. China and the Chinese people were victims of foreign invaders and the Boxers were not to blame for the invasion and the other emphases the atrocities committed by the Boxers. The third treatment is a story of China's national women volleyball team winning an Olympic championship. The control condition is an article on interior design. We find that, compared with other conditions, the victimization narrative significantly reinforces respondents' attachment to the victim side of the Chinese national identity, raises suspicion of the intention of foreign governments in international disputes, stimulates preference for more hawkish foreign policies, and strengthens support for China's current political system. The effects are  considerably stronger among respondents without a college degree and those with weaker nationalistic predispositions."
+abstract: "We study the effect of a victimization narrative on national identity and public opinion in China using an experimental approach. Previous studies suggest that governments can guide public opinion by shaping citizens' collective memory on historical events, but few establish a causal linkage. By conducting an online survey experiment among approximately 2,000 urban Chinese citizens, we examine the causal impact of primes of historical narratives on political attitudes. We find that, compared with control conditions, a narrative focusing on China’s humiliating past in late Qing significantly reinforces respondents' attachment to the victim side of the Chinese national identity, raises suspicion of the intention of foreign governments in international disputes, stimulates preference for more hawkish foreign policies, and strengthens support for China's current political system. The effects are considerably stronger among respondents without a college degree and those with weaker nationalistic predispositions."
 
 featured: false
 
